@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "790678498356",
+    "project_id": "psychology-111e5",
+    "storage_bucket": "psychology-111e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790678498356:android:4f42d53a56a4dec3e8ae61",
+        "android_client_info": {
+          "package_name": "com.cpm.psiholog.bea.gyarmati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790678498356-6rdkv29ki01fbrc23277d8tprh28avkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQo7D2qeBJcXKS6-eRAJy8aemQEdGr5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790678498356-6rdkv29ki01fbrc23277d8tprh28avkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790678498356-87vv38upfleujjacl0o02ob5sli49gbp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cpm.psiholog.bea.gyarmati"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
